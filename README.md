@@ -13,7 +13,7 @@ Includes PhotoCopy folder theme
 <img width="1920" height="1080" alt="preview2" src="https://github.com/user-attachments/assets/b139f2b9-aa73-43c2-8345-c00d2e468649" />
 
 # Installation
-Download PhotoCopy Icons here: <a href="https://www.pling.com/p/2310522/">https://www.pling.com/p/2310522/</a>
+Download PhotoCopy Icons here: <a href="https://www.gnome-look.org/p/2310522/">https://www.gnome-look.org/p/2310522/</a>
 
 Right-click on file PhotoCopy-Icons.tar.xz and select "Extract Here"
 
@@ -24,3 +24,5 @@ Copy/Paste new PhotoCopy-Icons folder to location:
 /home/"username"/.themes
 
 Use your Appearance Settings App or GNOME Tweaks to set new theme
+
+PhotoCopy Theme here: <a href="https://github.com/therobcox/PhotoCopy">https://github.com/therobcox/PhotoCopy</a>

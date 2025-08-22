@@ -25,4 +25,8 @@ Copy/Paste new PhotoCopy-Icons folder to location:
 
 Use your Appearance Settings App or GNOME Tweaks to set new theme
 
+# Extras
+
 PhotoCopy Theme here: <a href="https://github.com/therobcox/PhotoCopy">https://github.com/therobcox/PhotoCopy</a>
+
+Looks great with InkSpot Dynamic Background here: <a href="https://github.com/therobcox/InkSpot">https://github.com/therobcox/InkSpot</a>

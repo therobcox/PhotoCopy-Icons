@@ -19,9 +19,9 @@ Right-click on file PhotoCopy-Icons.tar.xz and select "Extract Here"
 
 Copy/Paste new PhotoCopy-Icons folder to location:
 
-/home/"username"/.local/share/themes
+/home/"username"/.local/share/icons
 -OR-
-/home/"username"/.themes
+/home/"username"/.icons
 
 Use your Appearance Settings App or GNOME Tweaks to set new theme
 
